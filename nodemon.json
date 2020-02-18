@@ -1,0 +1,10 @@
+{
+  "env": {
+    "MONGODB_BASE_URL": "localhost",
+    "MONGODB_PORT": "27017",
+    "MONGODB_CLUSTER_NAME": "mernBackendMongo",
+    "NODEJS_PORT": 5002,
+    "GOOGLE_API_KEY": "",
+    "JSONWEBTOKEN_KEY": "topsecret"
+  }
+}
